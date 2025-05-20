@@ -1,21 +1,21 @@
-MIT License
+NEStonia Licensing Terms
+=========================
 
-Copyright (c) 2025 digilogistist
+Portions of this repository are open for public inspection, but not for unrestricted commercial use.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+LICENSE SUMMARY:
+----------------
+- The **PCB layout**, routing, and manufacturing files are **copyrighted** by Brad Taylor and the BTTD Group. These files are NOT distributed in this repository.
+- **Commercial reproduction or distribution** of NEStonia hardware requires **written permission** and is subject to a **15% royalty** on PCB manufacturing costs.
+- **Schematics, 3D renderings, and PDFs** in this repository are provided for **personal use, educational purposes, or prototyping only**. They may not be used for mass manufacturing or commercial resale.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+To inquire about manufacturing rights, email: bradjoeltaylor@gmail.com
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Portions of this repository that include code, scripts, or tools may be separately licensed under:
+- The MIT License (for general-purpose code)
+- Creative Commons BY-NC-SA 4.0 (for documentation)
+
+See individual files or folders for applicable licensing notices.
+
+Copyright 2025 Brad Taylor, BTTD Group.
+All rights reserved.
