@@ -1,5 +1,5 @@
 ============================
-NEStonia Documentation v0.01
+NEStonia Documentation v0.02
 ============================
 
 Brad Taylor
@@ -119,7 +119,15 @@ BTTD Group
 
     Improper use of LiPo batteries may cause fire, explosion, or personal injury.
 
-    Never charge unattended.  Do not attempt to defeat the thermal sensor TH1.
+    Do not expose batteries to direct sunlight; do not place in a fire; do not submerge into a liquid.
+
+    Avoid the excessive application of physical shock to the batteries.
+
+    Batteries are not intended to come into contact with children; if the battery is swallowed seek medical attention immediately.
+
+    Do not try to disassemble or modify the battery.  Do not place the batteries where they can make contact with random metal objects.
+
+    Never charge unattended.  Never install the battery backwards.  Do not attempt to defeat the thermal sensor TH1.
 
     Be sure the RV1 potentiometer is set so the current limit matches your battery's charge capacity.
 
@@ -129,7 +137,7 @@ BTTD Group
 
     Dispose of according to local hazardous waste guidelines.
 
-    By using a LiPo battery with NEStonia, you accept full responsibility for its safe handling and operation.
+    By using a LiPo battery with NEStonia, you accept full responsibility for its safe handling, operation and disposal.
 
 
 7. Liability.
