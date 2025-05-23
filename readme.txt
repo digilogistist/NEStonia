@@ -1,21 +1,22 @@
 ============================
-NEStonia Documentation v0.02
+NEStonia Documentation v0.03
 ============================
 
 Brad Taylor
 BTTD Group
-05/20/2025
+05/22/2025
 
 
-1. Overview
-2. Features
-3. Resources
-4. Ordering info
-5. Lead Exposure
-6. 3.7 V LiPo Battery
-7. Liability
-8. Regulatory Compliance
-9. Licensing info
+ 1. Overview
+ 2. Features
+ 3. Resources
+ 4. Ordering info
+ 5. Lead Exposure
+ 6. 3.7 V LiPo Battery
+ 7. Liability
+ 8. Regulatory Compliance
+ 9. Privacy and Shipping
+10. Licensing info
 
 
 1. Overview
@@ -93,9 +94,13 @@ BTTD Group
 
     All donations may be accepted and auto-deposited in Canadian dollars by Interac e-Transfer with the bradjoeltaylor@gmail.com email address. U.S. buyers are welcome to convert currency via their bank or service of choice.
 
-    Please include your mailing address, requested quantity of NEStonia PCBs, and preference on stereo gain wheel color (black or gold) in a private email to bradjoeltaylor@gmail.com when making a donation.
+    Please include your name, mailing address (please, no P.O. Box addresses), daytime phone number, requested quantity of NEStonia PCBs, and preference on stereo gain wheel color (black or gold) in a private email to bradjoeltaylor@gmail.com when making a donation.
 
     * Tracking available only for U.S. and Canadian residents.
+
+    Address Verification Notice:
+
+    To ensure your order arrives safely, especially when using international or third-party couriers, we may verify shipping addresses through publicly available tools such as Google Maps. If we’re unable to confirm the accuracy of your address, we may reach out before shipping to avoid delays or lost packages.
 
 
 5. Lead Exposure.
@@ -176,7 +181,48 @@ BTTD Group
     ⚠️ This product is currently not a consumer device, and is not intended for resale as a finished product.
 
 
-9. Licensing info.
+ 9. Privacy and Shipping.
+
+    At the BTTD Group, we recognize the importance of safeguarding the personal information of our customers. This Privacy and Shipping Statement outlines our practices regarding data collection, usage, and disclosure in connection with order fulfillment and delivery services.
+
+    a) Data Collection and Use.
+
+        We collect only the minimum personally identifiable information necessary to fulfill customer orders, including:
+
+            * Full name
+
+            * Shipping address
+
+            * Contact information (e.g., phone number or email, when required for delivery)
+
+        This information is used exclusively for the purpose of processing and delivering your order. NEStonia does not sell, lease, or otherwise share customer data with third parties for advertising, profiling, or unrelated commercial purposes.
+
+    b) Use of Third-Party Shipping Providers.
+
+        In the event of a service disruption involving federally operated postal systems (e.g., a Canada Post labor strike), the BTTD Group may, at its discretion, utilize third-party logistics and shipping providers to ensure timely delivery of customer orders.
+
+        When such alternatives are employed:
+
+            * Only information strictly required for delivery is transmitted to the third-party service.
+
+            * Customer data shared with third-party shipping providers is retained only for the duration necessary to complete fulfillment and resolve any shipping issues.
+
+            * The BTTD Group undertakes reasonable efforts to remove or anonymize all customer data stored on third-party logistics platforms immediately upon the confirmation of delivery or fulfillment of the order.
+
+    c) Data Retention and Erasure.
+
+        Customer data is retained only for as long as required to fulfill the original transaction, comply with legal obligations, or resolve disputes. Upon request, the BTTD Group will promptly delete any stored personal data related to completed orders, subject to applicable legal and accounting requirements.
+
+    d) Data Security and Integrity.
+
+        All reasonable technical and organizational measures are taken to protect customer information against unauthorized access, loss, misuse, or alteration. Our systems and procedures are periodically reviewed and updated to ensure compliance with privacy standards and best practices.
+
+    e) Questions or Requests.
+
+        To submit a data deletion request, or if you have questions regarding this policy, please contact us at bradjoeltaylor@gmail.com.
+
+
+10. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
