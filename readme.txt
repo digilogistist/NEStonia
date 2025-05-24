@@ -195,7 +195,7 @@ BTTD Group
 
             * Contact information (e.g., phone number or email, when required for delivery)
 
-        This information is used exclusively for the purpose of processing and delivering your order. NEStonia does not sell, lease, or otherwise share customer data with third parties for advertising, profiling, or unrelated commercial purposes.
+        This information is used exclusively for the purpose of processing and delivering your order. The BTTD Group does not sell, lease, or otherwise share customer data with third parties for advertising, profiling, or unrelated commercial purposes.
 
     b) Use of Third-Party Shipping Providers.
 
