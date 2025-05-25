@@ -1,12 +1,14 @@
-NEStonia Licensing Terms
-=========================
+NEStonia Licensing Terms v0.02
+==============================
+05/25/2025
 
 Portions of this repository are open for public inspection, but not for unrestricted commercial use.
 
 LICENSE SUMMARY:
 ----------------
 - The **PCB layout**, routing, and manufacturing files are **copyrighted** by Brad Taylor and the BTTD Group. These files are NOT distributed in this repository.
-- **Commercial reproduction or distribution** of NEStonia hardware requires **written permission** and is subject to a **15% royalty** on PCB manufacturing costs.
+- **Commercial reproduction or distribution** of NEStonia PCB hardware requires **written permission** from the BTTD Group, and a range of **BTTD Group-provided PCB serial numbers** that must be silk-screened on an unpopulated and visible area of every PCB.
+- NEStonia PCB production is subject to a **15% royalty** on manufacturing costs, payable to the BTTD Group.
 - **Schematics, 3D renderings, and PDFs** in this repository are provided for **personal use, educational purposes, or prototyping only**. They may not be used for mass manufacturing or commercial resale.
 
 To inquire about manufacturing rights, email: bradjoeltaylor@gmail.com
