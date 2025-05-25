@@ -1,5 +1,5 @@
 ============================
-NEStonia Documentation v0.03
+NEStonia Documentation v0.04
 ============================
 
 Brad Taylor
@@ -42,37 +42,43 @@ BTTD Group
 
 2. Features
 
-    BT  1^      14500 LiPo 3.7 Volt 1200 mAh rechargeable unit battery, and thermal sensor.
+    BT  1 ^     14500 LiPo 3.7 Volt 1200 mAh rechargeable unit battery, and thermal sensor.
     D   1       RGB system LED indicator.  Indicates when the unit is charging, and when the NES cartridge port is energized.
     D   5-6     Left + right level/clip BI-LED indicators (green/red).
     D   7       MIC -> Cartridge line-in LED indicator.
     D   8       1/4" line in -> Cartridge line-in LED indicator.
-    J   1       72-pin NES cartridge connector (a future NEStonia update will include a Family Computer slot as well).  Supports 3 audio lines out, and two audio lines into the cart, as well as USB, and serial wire debug lines for a STM32- based future companion MP3 player NEStune.
-    J   2*      1/4" stereo line in, +/- 12 Volt tolerant.
-    J   3*      1/4" mono/stereo line-out, +/- 2.8 V-pp max.
+    J   1 $+%   72-pin NES cartridge connector.  Supports 3 audio lines out, and two audio lines into the cart, as well as USB, and serial wire debug lines for a STM32- based future companion MP3 player NEStune.
+    J   2 *     1/4" stereo line in, +/- 12 Volt tolerant.
+    J   3 *     1/4" mono/stereo line-out, +/- 2.8 V-pp max.
     J   4       MIDI-IN port with opto-isolated DFU function for the micro, and serial wire debug on the non-standard MIDI-DIN pins.
     J   5       MIDI-OUT (or THRU) port, with direct access to all 3 lines out of the cartridge on the non-standard MIDI-DIN pins.
+    J   8-10 ?  Jumper wires; 6 mm, 14 mm, 8 mm lengths respectively; standard solid core copper telephone wire AWG 22-26 is recommended.
     MK  1-2     Built-in stereo MEMS Microphones.
-    RV 10+      Line-out stereo gain wheel, unity gain in center of dial.
-    RV 11+      Line-in stereo gain wheel, unity gain in center of dial.
+    RV 10 +     Line-out stereo gain wheel, unity gain in center of dial.
+    RV 11 +     Line-in stereo gain wheel, unity gain in center of dial.
     SW  1       Integrated LED tactile switch, yellow, intended for line-out MUTE function.
     SW  2       Integrated LED tactile switch, green, intended for line-out USB function.
     SW  3       Integrated LED tactile switch, green, intended for line-out CART function.
     SW  4       Integrated LED tactile switch, green, intended for line-in to line-out function.
     SW  5       Integrated LED tactile switch, green, intended for line-out stereo MIC function.
     SW  6       Integrated LED tactile switch, white, intended for power cycling NEStonia.
-    SW  7       Line input coupling (AC or DC coupling is possible, for most audio applications you'll want to use AC coupling).
-    SW  8       Enable DFU over MIDI-IN, keep this setting disabled when not in use.
-    SW  9       Microphone-to-MIDI-out switch, brings NEStonia's stereo microphone lines to two MIDI-OUT pins and can be disabled.
-    SW 10       Stereo/mono line-out select.  Effectively disconnects the ring (right channel) from the line out jack.
+    SW  7 #     Line input coupling select; AC [default] coupling is desirable for most line audio, while DC can be used with a guitar.
+    SW  8 #     Device Firmware Upgrade over MIDI-IN disable [default]; keep this setting disabled when not in use.
+    SW  9 #     Microphone-to-MIDI-out disable [default], to bring NEStonia's raw stereo microphone lines to two MIDI-OUT pins.
+    SW 10 #     Stereo [default] / mono line-out select.  Effectively disconnects the ring (right channel) from the line out jack in mono mode.
+    TH  1       Thermal sensor for BT 1.  Requires a currently undocumented companion 50 mm x 10 mm thermal pad that tangents the battery and will be in a revised NEStonia BOM.
     U   9       Right USB-C charge port (data lines can also be routed into the cartridge).
     U  10       Left USB-C port connected to the STM32 micro, capable of 1.5 amp power delivery.
     U  24-25    Line out monitor select, 8 sources.
     U  28       ST Microelectronics STM32H562 microcontroller running at 250 MHz.  Has a general-purpose DMA controller built in to it for bus-mastering the NES/FC ports without CPU contention.
 
     ^ Two AA battery spring contacts are bent at 90 degrees by the leads to solder into the NEStonia mainboard, and be centered with the battery pads on RV10 and RV11 when installed.
+    $ A future NEStonia PCB revision will include an additional Family Computer slot.
+    + The RV10 and RV11 assemblies are constructed using the RV 6-9 mouse bites, and are snapped away from the NEStonia PCB to allow the 72 pin NES cart connector J1 to seat.  The RV 10-11 assemblies require trimmed potentiometer leads and kapton tape to cover the potentiometer through-holes adjacent to the battery pads on RV7 & RV9; a PCB flaw that will be corrected with the next NEStonia revision.
+    % The 72-pin NES connector must be trimmed to 110 mm or less to seat into J1, and leads bent down towards the pads on both sides of the PCB before soldering.
     * The 1/4" plugs share a footprint with a 3.5 mm headphone plug, so you can pick between the size you prefer on both sides of NEStonia, but you can not populate both size parts simultaneously.
-    + The RV10 and RV11 assemblies require trimmed potentiometer leads and kapton tape to cover the potentiometer through-holes adjacent to the battery pads; it is a design flaw that will be corrected with NEStonia-16.
+    ? NESTONIA-15-BOM.html lists these parts as bulk breadboard jumper kits, and are not suitable purchases for single board productions unless you happen to want a lot of extra jumper wires.
+    # Switches slide towards the closest edge of the board to set defaults.
 
 
 3. Resources.
@@ -84,6 +90,8 @@ BTTD Group
     Mouser parts:               www.mouser.com/Tools/Project/Share?AccessID=467c7880bc
     72-pin connectors:          https://www.aliexpress.com/item/1005007839326951.html
     Batteries:                  https://www.aliexpress.com/item/1005008443604496.html
+    NES Development:            https://www.nesdev.org
+    MIDI Development:           https://midi.org
 
 
 4. Ordering NEStonia.
