@@ -123,6 +123,8 @@ BTTD Group
 
     Always assemble and use in a well-ventilated workspace.
 
+    Dispose of according to local hazardous waste guidelines.
+
     By receiving or using this board, you acknowledge and accept the risks associated with lead-containing materials.
 
 
