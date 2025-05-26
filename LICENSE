@@ -1,23 +1,42 @@
-NEStonia Licensing Terms v0.02
+🔐 NEStonia Licensing Terms v0.03
 ==============================
-05/25/2025
+05/26/2025
 
 Portions of this repository are open for public inspection, but not for unrestricted commercial use.
+LICENSE OVERVIEW:
 
-LICENSE SUMMARY:
-----------------
-- The **PCB layout**, routing, and manufacturing files are **copyrighted** by Brad Taylor and the BTTD Group. These files are NOT distributed in this repository.
-- **Commercial reproduction or distribution** of NEStonia PCB hardware requires **written permission** from the BTTD Group, and a range of **BTTD Group-provided PCB serial numbers** that must be silk-screened or etched to be **made visible on every fully-assembled NEStonia PCB**.
-- NEStonia PCB production is subject to a **15% royalty** on manufacturing costs, payable to the BTTD Group.
-- **Schematics, 3D renderings, and PDFs** in this repository are provided for **personal use, educational purposes, or prototyping only**. They may not be used for mass manufacturing or commercial resale.
+    The PCB layout, routing, and manufacturing files are copyrighted by Brad Taylor and the BTTD Group.
 
-To inquire about manufacturing rights, email: bradjoeltaylor@gmail.com
+        ⚠️ These files are not included in this repository.
 
-Portions of this repository that include code, scripts, or tools may be separately licensed under:
-- The MIT License (for general-purpose code)
-- Creative Commons BY-NC-SA 4.0 (for documentation)
+    Commercial reproduction or distribution of NEStonia PCB hardware requires:
 
-See individual files or folders for applicable licensing notices.
+        ** Written permission from the BTTD Group **
 
-Copyright 2025 Brad Taylor, BTTD Group.
-All rights reserved.
+        ** Public registration of every T5-passed NEStonia PCB assembly using a secure GitHub token **
+
+        ** 15% royalty on manufacturing costs, payable to the BTTD Group **
+
+    Files in this repository, including schematics, 3D models, and PDFs, are provided for:
+
+        ✅ Personal, educational, or prototyping use only
+        ❌ Not permitted for mass production or commercial resale
+
+📬 For Manufacturing Rights or Licensing Inquiries
+
+Please contact:
+📧 bradjoeltaylor@gmail.com
+📄 Software & Documentation Licensing
+
+Code, scripts, and documentation in this repository may carry separate licenses, including:
+
+    MIT License – for general-purpose scripts and utilities
+
+    Creative Commons BY-NC-SA 4.0 – for documentation and visual materials
+
+Refer to individual files or folders for detailed license notices.
+
+
+Copyright © 2025 Brad Taylor
+Copyright © 2025 BTTD Group
+All rights reserved
