@@ -38,7 +38,7 @@ BTTD Group
     NEStonia-registration.sh    NEStonia production unit registration script
     NEStonia-twin-slot-.png     3D renderings of a NEStonia future expansion for direct Family Computer cartridge support
     NEStune-z.png               3D renderings of a NEStonia future companion PCB for MP3 file playback
-    LICENSE                     The legal skinny on commercial NEStonia-15 PCB manufacturing
+    LICENSE                     The legal skinny on commercial NEStonia PCB manufacturing
     readme.txt                  This file
 
     ⚠️ This repo is for **documentation and educational purposes only**.
