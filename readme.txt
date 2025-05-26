@@ -17,11 +17,12 @@ BTTD Group
  7. Liability
  8. Regulatory Compliance
  9. Privacy and Shipping
-10. Hobbyists & Home Builders
-11. NEStonia Builder’s Log
-12. Registration & Authentication
-13. Trust & Abuse Policy
-14. Licensing info
+10. Parts Availability
+11. Hobbyists & Home Builders
+12. NEStonia Builder’s Log
+13. Registration & Authentication
+14. Trust & Abuse Policy
+15. Licensing info
 
 
 1. Overview.
@@ -241,7 +242,42 @@ BTTD Group
         To submit a data deletion request, or if you have questions regarding this policy, please contact us at bradjoeltaylor@gmail.com.
 
 
-10. Hobbyists & Home Builders.
+10. Parts Availability.
+
+    ⚠️  Disclaimer:
+
+        ** NEStonia relies on a carefully curated Bill of Materials (BOM) that specifies components available through major distributors like Mouser and Digi-Key. However, component availability is subject to change at any time, and no guarantees are made regarding continuous stock or pricing of any part listed. **
+
+    🛒 Distributor Availability
+
+    The BTTD Group makes every reasonable effort to:
+
+        * Liaise with distributors to encourage sustained availability of NEStonia components
+
+        * Recommend vetted substitute parts to suppliers when originals become unavailable
+
+        * Update the official BOM and documentation as needed in response to supply chain fluctuations
+
+        * Actively consider community recommendations and trusted supplier suggestions when evaluating replacements or PCB revisions.
+
+    ⚙️ Manufacturer Responsibility
+
+    Ultimately, it is the responsibility of the manufacturer/hobbyist to:
+
+        * Monitor part availability during procurement
+
+        * Communicate directly with the BTTD Group before substituting any part
+
+        * Ensure that any changes do not compromise the function or compatibility of the NEStonia PCB
+
+    Manufacturers are expected to coordinate in good faith to ensure consistent quality across production runs.
+
+    📜 Legal Note:
+
+        The BTTD Group is not liable for delays, financial losses, or production issues stemming from part shortages, discontinued components, or unauthorized substitutions. Manufacturers are advised to verify all parts before initiating large-scale assembly and to notify us immediately if concerns arise.
+
+
+11. Hobbyists & Home Builders.
 
     NEStonia is not your average DIY electronics project.
 
@@ -264,7 +300,7 @@ BTTD Group
     This may or may not be a hard electronics project for you to build, but don't give up anyway...
 
 
-11. NEStonia Builder’s Log.
+12. NEStonia Builder’s Log.
 
     For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully construct a working NEStonia.
 
@@ -293,7 +329,7 @@ BTTD Group
         Helps preserve the open hardware spirit without compromising the official manufacturing chain.
 
 
-12. Registration & Authentication.
+13. Registration & Authentication.
 
     To ensure every commercially-built NEStonia PCB assembly is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
 
@@ -322,7 +358,7 @@ BTTD Group
         The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
 
 
-13. Trust & Abuse Policy.
+14. Trust & Abuse Policy.
 
     The NEStonia Public Registry system enables transparent, auditable registration of every officially manufactured NEStonia unit, creating a permanent public record that manufacturers and customers alike can rely on.
 
@@ -363,7 +399,7 @@ BTTD Group
     Together, we’re setting a new standard in public serialization and open manufacturing accountability.
 
 
-14. Licensing info.
+15. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
