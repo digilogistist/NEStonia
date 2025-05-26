@@ -1,10 +1,10 @@
 ============================
-NEStonia Documentation v0.04
+NEStonia Documentation v0.05
 ============================
 
 Brad Taylor
 BTTD Group
-05/25/2025
+05/26/2025
 
 
  1. Overview
@@ -16,7 +16,8 @@ BTTD Group
  7. Liability
  8. Regulatory Compliance
  9. Privacy and Shipping
-10. Licensing info
+10. Registration & Authentication
+11. Licensing info
 
 
 1. Overview
@@ -30,9 +31,11 @@ BTTD Group
     NEStonia-15.pdf             NEStonia-15 schematic diagram
     NEStonia-15-(xyz).png       NEStonia 3D renderings with parts
     NEStonia-early-concept.zip  Early 3D model of NEStonia's outer shell (OBJ)
+    NEStonia-authentication.sh  NEStonia authenticity script
+    NEStonia-registration.sh    NEStonia production unit registration script
     NEStonia-twin-slot-.png     3D renderings of a NEStonia future expansion for direct Family Computer cartridge support
     NEStune-z.png               3D renderings of a NEStonia future companion PCB for MP3 file playback
-    LICENSE                     The legal skinny on NEStonia-15 PCB manufacturing
+    LICENSE                     The legal skinny on commercial NEStonia-15 PCB manufacturing
     readme.txt                  This file
 
     ⚠️ This repo is for **documentation and educational purposes only**.
@@ -232,7 +235,59 @@ BTTD Group
         To submit a data deletion request, or if you have questions regarding this policy, please contact us at bradjoeltaylor@gmail.com.
 
 
-10. Licensing info.
+10. Registration & Authentication.
+
+To ensure every NEStonia board is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
+✅ For Manufacturers
+
+    Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
+
+    Zero-Code Setup: No firmware is required — UIDs are read directly from hardware over SWD.
+
+    Effortless Registry Upload: A provided script securely pushes the unit’s UID to a public GitHub-based registry using a protected token.
+
+    Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
+
+🔎 For Customers
+
+    Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
+
+    No Manual Search: An included verification tool reads the unit’s ID and checks for authenticity automatically.
+
+    Counterfeit Protection: Units not found in the registry are easily identified as unauthorized, protecting the community from fakes.
+
+    Preserved Value: Genuine NEStonia boards retain their value by being part of a traceable, trusted chain of production.
+
+🌐 Industry-First Innovation
+
+The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
+
+A Note on Hobbyist and Self-Assembled Units:
+
+We welcome community experimentation and DIY assembly — NEStonia is open hardware after all.  However, to preserve the integrity of the public registry and ensure every registered unit meets strict manufacturing standards:
+
+    ** Only units assembled by authorized manufacturing partners can be officially registered. **
+
+Self-assembled or hobbyist NEStonia builds are not eligible for inclusion in the registry. This is because we cannot guarantee:
+
+    * The quality or correctness of the assembly process
+
+    * The use of authentic or complete parts
+
+    * That the unit has passed baseline electrical validation
+
+🔍 Why This Matters
+
+    Authenticity: Registry inclusion signifies a board has been built and tested to known-good specifications.
+
+    Trust: Customers, collectors, and developers can confidently verify that a unit is genuine and holds its place in the NEStonia ecosystem.
+
+    Value: Registered NEStonia boards retain greater perceived value due to traceability and verified origin.
+
+DIY builds are still fully functional and educational, but they do not carry the same guarantees or recognition as officially registered hardware.
+
+
+11. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
