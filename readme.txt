@@ -1,7 +1,7 @@
 =============================
 NEStonia Documentation v 0.05
 =============================
-** Viewed best in Raw text **
+** Viewed best as Raw text **
 
 Brad Taylor
 BTTD Group
@@ -24,7 +24,7 @@ BTTD Group
 14. Licensing info
 
 
-1. Overview
+1. Overview.
 
     NEStonia is intended as a general-purpose full-duplex USB audio interface device, that has a long-term mission to bridge MIDI functionality over to NES and Family Computer cartridge sound hardware.  The end goal is to re-purpose millions of these after-market cartridges and RAM adapters, and expose their synth hardware via a general MIDI interface, using NEStonia's powerful STM32 microcontroller as the muscle.  There are also stereo MEMS microphones on NEStonia allowing the unit to double up as a general-purpose voice recorder.
 
@@ -47,7 +47,7 @@ BTTD Group
     💼 Commercial use of the NEStonia PCB layout requires a license and royalty agreement.
 
 
-2. Features
+2. Features.
 
     BT  1 ^     14500 LiPo 3.7 Volt 1200 mAh rechargeable unit battery, and thermal sensor.
     D   1       RGB system LED indicator.  Indicates when the unit is charging, and when the NES cartridge port is energized.
