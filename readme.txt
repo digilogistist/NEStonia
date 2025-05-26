@@ -246,11 +246,13 @@ BTTD Group
 
     ⚠️  Disclaimer:
 
-        ** NEStonia relies on a carefully curated Bill of Materials (BOM) that specifies components available through major distributors like Mouser and Digi-Key. However, component availability is subject to change at any time, and no guarantees are made regarding continuous stock or pricing of any part listed. **
+        ** NEStonia relies on a carefully curated Bill of Materials (BOM) that specifies components available through major distributors like Mouser and Digi-Key.  The goal is to stock every part on the BOM with multiple suppliers, but component availability is subject to change at any time, and no guarantees are made regarding continuous stock or pricing of any part listed. **
 
     🛒 Distributor Availability
 
     The BTTD Group makes every reasonable effort to:
+
+        * Routinely ensure every part on the NEStonia BOM is in stock with at least one major supplier
 
         * Liaise with distributors to encourage sustained availability of NEStonia components
 
