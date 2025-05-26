@@ -257,7 +257,7 @@ BTTD Group
 
         It’s not used for verification tools — it’s for recognition and community, not validation.
 
-    🔧 Why It Matters
+    🔧 Why It Matters:
 
         Encourages skill-building and pride in personal accomplishments.
 
@@ -268,31 +268,31 @@ BTTD Group
 
 11. Registration & Authentication.
 
-To ensure every commercially-built NEStonia PCB assembly is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
+    To ensure every commercially-built NEStonia PCB assembly is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
 
-✅ For Manufacturers:
+    ✅ For Manufacturers:
 
-    Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
+        Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
 
-    Zero-Code Setup: No firmware is required — UIDs are read directly from hardware over SWD.
+        Zero-Code Setup: No firmware is required — UIDs are read directly from hardware over SWD.
 
-    Effortless Registry Upload: A provided script securely pushes the unit’s UID to a public GitHub-based registry using a protected token.
+        Effortless Registry Upload: A provided script securely pushes the unit’s UID to a public GitHub-based registry using a protected token.
 
-    Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
+        Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
 
-🔎 For Customers:
+    🔎 For Customers:
 
-    Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
+        Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
 
-    No Manual Search: An included verification tool reads the unit’s ID and checks for authenticity automatically.
+        No Manual Search: An included verification tool reads the unit’s ID and checks for authenticity automatically.
 
-    Counterfeit Protection: Units not found in the registry are easily identified as unauthorized, protecting the community from fakes.
+        Counterfeit Protection: Units not found in the registry are easily identified as unauthorized, protecting the community from fakes.
 
-    Preserved Value: Genuine NEStonia boards retain their value by being part of a traceable, trusted chain of production.
+        Preserved Value: Genuine NEStonia boards retain their value by being part of a traceable, trusted chain of production.
 
-🌐 Industry-First Innovation
+    🌐 Industry-First Innovation:
 
-The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
+        The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
 
 
 12. Licensing info.
