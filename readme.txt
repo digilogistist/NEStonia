@@ -152,7 +152,7 @@ BTTD Group
 
     Never charge unattended.  Never install the battery backwards.  Do not attempt to defeat the thermal sensor TH1.
 
-    Be sure the RV1 potentiometer is set so the current limit matches your battery's charge capacity.
+    Be sure the RV1 potentiometer is set so the current limit matches your battery's charge capacity.  Please refer to Texas Instruments document BQ25895M, section 8.2.12 "Input Current Limit on ILIM".
 
     Use only brand-name LiPo batteries, and check the comments sections to verify the mAh capacity before procuring.
 
