@@ -27,7 +27,7 @@ BTTD Group
 
     NEStonia is intended as a general-purpose full-duplex USB audio interface device, that has a long-term mission to bridge MIDI functionality over to NES and Family Computer cartridge sound hardware.  The end goal is to re-purpose millions of these after-market cartridges and RAM adapters, and expose their synth hardware via a general MIDI interface, using NEStonia's powerful STM32 microcontroller as the muscle.  There are also stereo MEMS microphones on NEStonia allowing the unit to double up as a general-purpose voice recorder.
 
-    File List (16)
+    File List (18)
     --------------
     gain-wheel.zip              3D model for the stereo gain wheel assembly (OBJ)
     NEStonia-15-BOM.html        List of NEStonia's parts, board references and supplier links
