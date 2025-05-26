@@ -18,7 +18,8 @@ BTTD Group
  9. Privacy and Shipping
 10. NEStonia Builder’s Log
 11. Registration & Authentication
-12. Licensing info
+12. Trust & Abuse Policy
+13. Licensing info
 
 
 1. Overview
@@ -194,7 +195,7 @@ BTTD Group
 
         * Avoid deploying this board in commercial, broadcast, or mission-critical environments.
 
-    ⚠️ This product is currently not a consumer device, and is not intended for resale as a finished product.
+    ⚠️ This product is currently not a certified consumer device, and is not intended for resale as a finished product.
 
 
  9. Privacy and Shipping.
@@ -295,7 +296,48 @@ BTTD Group
         The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
 
 
-12. Licensing info.
+12. Trust & Abuse Policy.
+
+    The NEStonia Public Registry system enables transparent, auditable registration of every officially manufactured NEStonia unit, creating a permanent public record that manufacturers and customers alike can rely on.
+
+    🔐 Manufacturer Access & Responsibilities
+
+    Authorized manufacturers are granted write-only access tokens to the NEStonia-Registry repository. These tokens are used exclusively for pushing valid serial number files (uids/*.txt) through the official registration script provided in the NEStonia repository. These tokens are:
+
+        * Non-transferable
+
+        * Bound by contract
+
+        * Strictly limited to UID submissions
+
+    🚫 Misuse and Violations
+
+    The BTTD Group entrusts its manufacturing partners with access to this system on the basis of good faith and mutual respect. Any of the following will be considered a breach of contract and grounds for immediate blacklisting:
+
+        * Attempting to delete, overwrite, or tamper with existing UID entries
+
+        * Submitting false or duplicate UIDs
+
+        * Using automation to flood the registry or disrupt verification
+
+        * Any attempt to manipulate or exploit the registry outside its intended function
+
+    We are committed to strong, long-term relationships with partners who share our vision of innovation, transparency, and integrity. Misuse of the registry not only damages trust — it jeopardizes participation in future BTTD Group projects and may trigger legal consequences outlined in your manufacturing agreement.
+
+    ✅ Upholding the System
+
+    The public registry is not only a tool — it is a statement of quality. When manufacturers use it responsibly:
+
+        * Customers can instantly verify the authenticity of their unit
+
+        * Counterfeit detection becomes trivial
+
+        * Your own brand reputation is strengthened
+
+    Together, we’re setting a new standard in public serialization and open manufacturing accountability.
+
+
+13. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
