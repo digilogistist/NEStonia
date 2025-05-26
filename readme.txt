@@ -241,7 +241,7 @@ BTTD Group
 
 10. NEStonia Builder’s Log.
 
-    For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully constructed a working NEStonia.
+    For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully construct a working NEStonia.
 
     🌟 What It Is:
 
@@ -249,11 +249,11 @@ BTTD Group
 
         Builders can submit their UID, a nickname or handle, and optionally a photo or project description.
 
-        Entries are kept separate from the official registry, but are publicly viewable as a celebration of independent craftsmanship.
+        Entries are kept separate from the official NEStonia registry, but are publicly viewable as a celebration of independent craftsmanship.
 
     🤝 What It’s Not:
 
-        It does not certify authenticity or resale value.
+        It does not certify commercial authenticity or resale value.
 
         It’s not an official registration, and carries no warranty or endorsement.
 
