@@ -16,10 +16,11 @@ BTTD Group
  7. Liability
  8. Regulatory Compliance
  9. Privacy and Shipping
-10. NEStonia Builder’s Log
-11. Registration & Authentication
-12. Trust & Abuse Policy
-13. Licensing info
+10. Hobbyists & Home Builders
+11. NEStonia Builder’s Log
+12. Registration & Authentication
+13. Trust & Abuse Policy
+14. Licensing info
 
 
 1. Overview
@@ -239,7 +240,28 @@ BTTD Group
         To submit a data deletion request, or if you have questions regarding this policy, please contact us at bradjoeltaylor@gmail.com.
 
 
-10. NEStonia Builder’s Log.
+10. Hobbyists & Home Builders.
+
+    NEStonia is not your average DIY electronics project.
+
+    This is a professional-grade project designed with commercial-grade routing, high part density, and dozens of interdependent subsystems. It's a love letter to modern versus vintage hardware design — and building it by hand is a serious undertaking.
+
+    Suggested prerequisites for success:
+
+        * Patience
+
+        * Excellent soldering technique and manual dexterity
+
+        * A decent bench setup (flux and dispenser, hot air station, blade tip soldering iron and wet sponge, 63/37 solder wire, metal brush tip cleaner, solder wik, tweezers, chip holders, flush cutters, kapton tape, digital microscope, fumes extractor, digital multimeter, isopropyl alcohol dispenser and ESD-safe PCB brush, anti-ESD mat and/or ESD wrist straps or foot straps)
+
+        * Comfort reading schematics and understanding part placements
+
+        * The courage to troubleshoot when things don’t light up the first time
+
+    This may or may not be a hard electronics project for you to build, but don't give up anyway...
+
+
+11. NEStonia Builder’s Log.
 
     For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully construct a working NEStonia.
 
@@ -268,7 +290,7 @@ BTTD Group
         Helps preserve the open hardware spirit without compromising the official manufacturing chain.
 
 
-11. Registration & Authentication.
+12. Registration & Authentication.
 
     To ensure every commercially-built NEStonia PCB assembly is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
 
@@ -297,7 +319,7 @@ BTTD Group
         The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
 
 
-12. Trust & Abuse Policy.
+13. Trust & Abuse Policy.
 
     The NEStonia Public Registry system enables transparent, auditable registration of every officially manufactured NEStonia unit, creating a permanent public record that manufacturers and customers alike can rely on.
 
@@ -338,7 +360,7 @@ BTTD Group
     Together, we’re setting a new standard in public serialization and open manufacturing accountability.
 
 
-13. Licensing info.
+14. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
