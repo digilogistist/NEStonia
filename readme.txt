@@ -251,6 +251,8 @@ BTTD Group
 
         * Patience
 
+        * Familiarity with videos of fine-pitch soldering and high-precision retro game system mods
+
         * Excellent soldering technique and manual dexterity
 
         * A decent bench setup (flux and dispenser, hot air station, blade tip soldering iron and wet sponge, 63/37 solder wire, metal brush tip cleaner, solder wik, tweezers, chip holders, flush cutters, kapton tape, digital microscope, fumes extractor, digital multimeter, isopropyl alcohol dispenser and ESD-safe PCB brush, anti-ESD mat and/or ESD wrist straps or foot straps)
