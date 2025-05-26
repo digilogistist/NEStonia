@@ -242,6 +242,7 @@ BTTD Group
 10. NEStonia Builder’s Log.
 
     For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully constructed a working NEStonia.
+
     🌟 What It Is:
 
         A voluntary, opt-in list for self-assembled NEStonia builds.
