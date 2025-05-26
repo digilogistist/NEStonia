@@ -16,8 +16,9 @@ BTTD Group
  7. Liability
  8. Regulatory Compliance
  9. Privacy and Shipping
-10. Registration & Authentication
-11. Licensing info
+10. NEStonia Builder’s Log
+11. Registration & Authentication
+12. Licensing info
 
 
 1. Overview
@@ -86,15 +87,17 @@ BTTD Group
 
 3. Resources.
 
-    BTTD Group contact:         bradjoeltaylor@gmail.com
-    Github link:                https://github.com/digilogistist/NEStonia
-    Official NEStonia Channel:  https://www.youtube.com/@OfficialNEStoniaChannel
-    Digikey parts:              www.digikey.ca/en/mylists/list/VCLNEV7YCW
-    Mouser parts:               www.mouser.com/Tools/Project/Share?AccessID=467c7880bc
-    72-pin connectors:          https://www.aliexpress.com/item/1005007839326951.html
-    Batteries:                  https://www.aliexpress.com/item/1005008443604496.html
-    NES Development:            https://www.nesdev.org
-    MIDI Development:           https://midi.org
+    BTTD Group contact:             bradjoeltaylor@gmail.com
+    Github link:                    https://github.com/digilogistist/NEStonia
+    Builder's Log:                  https://github.com/digilogistist/NEStonia-Builders
+    Official NEStonia Registry:     https://github.com/digilogistist/NEStonia-Registry
+    Official NEStonia Channel:      https://www.youtube.com/@OfficialNEStoniaChannel
+    Digikey parts:                  www.digikey.ca/en/mylists/list/VCLNEV7YCW
+    Mouser parts:                   www.mouser.com/Tools/Project/Share?AccessID=467c7880bc
+    72-pin connectors:              https://www.aliexpress.com/item/1005007839326951.html
+    Batteries:                      https://www.aliexpress.com/item/1005008443604496.html
+    NES Development:                https://www.nesdev.org
+    MIDI Development:               https://midi.org
 
 
 4. Ordering NEStonia.
@@ -235,10 +238,39 @@ BTTD Group
         To submit a data deletion request, or if you have questions regarding this policy, please contact us at bradjoeltaylor@gmail.com.
 
 
-10. Registration & Authentication.
+10. NEStonia Builder’s Log.
 
-To ensure every NEStonia board is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
-✅ For Manufacturers
+    For hobbyists who assemble their own NEStonia boards from scratch — whether for fun, learning, or personal use — we offer the Builder’s Log: a community-powered directory for enthusiasts who successfully constructed a working NEStonia.
+    🌟 What It Is:
+
+        A voluntary, opt-in list for self-assembled NEStonia builds.
+
+        Builders can submit their UID, a nickname or handle, and optionally a photo or project description.
+
+        Entries are kept separate from the official registry, but are publicly viewable as a celebration of independent craftsmanship.
+
+    🤝 What It’s Not:
+
+        It does not certify authenticity or resale value.
+
+        It’s not an official registration, and carries no warranty or endorsement.
+
+        It’s not used for verification tools — it’s for recognition and community, not validation.
+
+    🔧 Why It Matters
+
+        Encourages skill-building and pride in personal accomplishments.
+
+        Gives hobbyists a sense of inclusion and recognition within the NEStonia ecosystem.
+
+        Helps preserve the open hardware spirit without compromising the official manufacturing chain.
+
+
+11. Registration & Authentication.
+
+To ensure every commercially-built NEStonia PCB assembly is authentic and uniquely identifiable, we've developed a state-of-the-art public registration system — a pioneering approach introduced by the BTTD Group. This process provides clear value to both manufacturers and customers, reinforcing NEStonia’s credibility in the hardware ecosystem.
+
+✅ For Manufacturers:
 
     Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
 
@@ -248,7 +280,7 @@ To ensure every NEStonia board is authentic and uniquely identifiable, we've dev
 
     Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
 
-🔎 For Customers
+🔎 For Customers:
 
     Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
 
@@ -262,32 +294,8 @@ To ensure every NEStonia board is authentic and uniquely identifiable, we've dev
 
 The NEStonia UID Registry is a first-of-its-kind public serialization infrastructure that sets the standard for open hardware verification. Developed by the BTTD Group, this method positions NEStonia as a leader in trustworthy, transparent electronics manufacturing.
 
-A Note on Hobbyist and Self-Assembled Units:
 
-We welcome community experimentation and DIY assembly — NEStonia is open hardware after all.  However, to preserve the integrity of the public registry and ensure every registered unit meets strict manufacturing standards:
-
-    ** Only units assembled by authorized manufacturing partners can be officially registered. **
-
-Self-assembled or hobbyist NEStonia builds are not eligible for inclusion in the registry. This is because we cannot guarantee:
-
-    * The quality or correctness of the assembly process
-
-    * The use of authentic or complete parts
-
-    * That the unit has passed baseline electrical validation
-
-🔍 Why This Matters
-
-    Authenticity: Registry inclusion signifies a board has been built and tested to known-good specifications.
-
-    Trust: Customers, collectors, and developers can confidently verify that a unit is genuine and holds its place in the NEStonia ecosystem.
-
-    Value: Registered NEStonia boards retain greater perceived value due to traceability and verified origin.
-
-DIY builds are still fully functional and educational, but they do not carry the same guarantees or recognition as officially registered hardware.
-
-
-11. Licensing info.
+12. Licensing info.
 
     If you are an electronics manufacturer interested in building fully-assembled NEStonias, please read license.txt and contact the BTTD Group at bradjoeltaylor@gmail.com.
 
