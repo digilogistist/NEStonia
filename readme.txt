@@ -80,7 +80,7 @@ BTTD Group
 
     ^ Two AA battery spring contacts are bent at 90 degrees by the leads to solder into the NEStonia mainboard, and be centered with the battery pads on RV10 and RV11 when installed.
     $ A future NEStonia PCB revision will include an additional Family Computer slot.
-    + The RV10 and RV11 assemblies are constructed using the RV 6-9 mouse bites, and are snapped away from the NEStonia PCB to allow the 72 pin NES cart connector J1 to seat.  The RV 10-11 assemblies require trimmed potentiometer leads and kapton tape to cover the potentiometer through-holes adjacent to the battery pads on RV7 & RV9; a PCB flaw that will be corrected with the next NEStonia revision.
+    + The RV10 and RV11 assemblies are constructed using the RV 6-9 mouse bites, and are snapped away from the NEStonia PCB to allow the 72 pin NES cart connector J1 to seat.  The RV 10-11 assemblies require trimmed potentiometer leads and kapton tape to cover the potentiometer through-holes adjacent to the battery pads on RV7 & RV9; a design flaw that will be corrected with the next NEStonia revision.
     % The 72-pin NES connector must be trimmed to 110 mm or less to seat into J1, and leads bent down towards the pads on both sides of the PCB before soldering.
     * The 1/4" plugs share a footprint with a 3.5 mm headphone plug, so you can pick between the size you prefer on both sides of NEStonia, but you can not populate both size parts simultaneously.
     ? NESTONIA-15-BOM.html lists these parts as bulk breadboard jumper kits, and are not suitable purchases for single board productions unless you happen to want a lot of extra jumper wires.
