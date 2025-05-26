@@ -110,7 +110,7 @@ BTTD Group
 
     NEStonia ships as an unpopulated two-layer printed circuit board with HASL; please use the parts links to order any quantity of most the bill of materials to ease procurement.  Each PCB includes a pair of 3D-printed stereo gain wheels for the line-in and line-out gain control.
 
-    All donations may be accepted and auto-deposited in Canadian dollars by Interac e-Transfer with the bradjoeltaylor@gmail.com email address. U.S. donors are welcome to convert currency via their bank or service of choice.
+    All donations may be accepted and auto-deposited in Canadian dollars by Interac e-Transfer to the bradjoeltaylor@gmail.com email address. U.S. donors are welcome to convert currency via their bank or service of choice.
 
     Please include your name, mailing address (please, no P.O. Box addresses), daytime phone number, requested quantity of NEStonia PCBs, and preference on stereo gain wheel color (black or gold) in a private email to bradjoeltaylor@gmail.com when making a donation.
 
