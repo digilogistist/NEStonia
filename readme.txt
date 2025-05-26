@@ -121,7 +121,7 @@ BTTD Group
 
 5. Lead Exposure.
 
-    This PCB is manufactured using lead-based HASL (Hot Air Solder Leveling) finish.
+    The NEStonia PCB is manufactured using lead-based HASL (Hot Air Solder Leveling) finish.
 
     Contains lead (Pb), which is known to be toxic if ingested or improperly handled.
 
