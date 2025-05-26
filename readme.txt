@@ -1,6 +1,7 @@
-============================
-NEStonia Documentation v0.05
-============================
+=============================
+NEStonia Documentation v 0.05
+=============================
+** Viewed best in Raw text **
 
 Brad Taylor
 BTTD Group
