@@ -99,10 +99,10 @@ BTTD Group
     Official NEStonia Channel:      https://www.youtube.com/@OfficialNEStoniaChannel
     Digikey parts:                  www.digikey.ca/en/mylists/list/VCLNEV7YCW
     Mouser parts:                   www.mouser.com/Tools/Project/Share?AccessID=467c7880bc
+    Batteries:                      https://www.aliexpress.com/item/1005008443604496.html
     72-pin connectors:              https://www.aliexpress.com/item/1005005056845301.html
                                     https://www.aliexpress.com/item/1005005016059093.html
                                     https://www.aliexpress.com/item/32785406388.html
-    Batteries:                      https://www.aliexpress.com/item/1005008443604496.html
     NES Development:                https://www.nesdev.org
     MIDI Development:               https://midi.org
 
