@@ -55,7 +55,7 @@ BTTD Group
     D   5-6     Left + right level/clip BI-LED indicators (green/red).
     D   7       MIC -> Cartridge line-in LED indicator.
     D   8       1/4" line in -> Cartridge line-in LED indicator.
-    J   1 $+%   72-pin NES cartridge connector.  Supports 3 audio lines out, and two audio lines into the cart, as well as USB, and serial wire debug lines for a STM32- based future companion MP3 player NEStune.
+    J   1 $+%=  72-pin NES cartridge connector.  Supports 3 audio lines out, and two audio lines into the cart, as well as USB, and serial wire debug lines for a STM32- based future companion MP3 player NEStune.
     J   2 *     1/4" stereo line in, +/- 12 Volt tolerant.
     J   3 *     1/4" mono/stereo line-out, +/- 2.8 V-pp max.
     J   4       MIDI-IN port with opto-isolated DFU function for the micro, and serial wire debug on the non-standard MIDI-DIN pins.
@@ -76,12 +76,13 @@ BTTD Group
     SW 10 #     Stereo [default] / mono line-out select.  Effectively disconnects the ring (right channel) from the line out jack in mono mode.
     TH  1       Thermal sensor for BT 1.  Requires a currently undocumented companion 50 mm x 10 mm thermal pad that tangents the battery hull and will be in a revised NEStonia BOM.
     U   9       Right USB-C charge port (data lines can also be routed into the cartridge).
-    U  10       Left USB-C port connected to the STM32 micro, capable of 1.5 amp power delivery.
+    U  10       Left USB-C port connected to the STM32 micro, capable of 1.5 Amp power delivery.
     U  24-25    Line out monitor select, 8 sources.
     U  28       ST Microelectronics STM32H562 microcontroller running at 250 MHz.  Has a general-purpose DMA controller built in to it for bus-mastering the NES/FC ports without CPU contention.
 
     # Switches slide towards the closest edge of the board to set defaults.
     $ A future NEStonia PCB revision will include an additional Family Computer slot.
+    = The NEStonia BOM references multiple sources for this part from AliExpress.  In some cases, you must specify "Color: for NES 72pin" before procurement.
     % The 72-pin NES connector must be trimmed to 110 mm or less to seat into J1, and leads bent down towards the pads on both sides of the PCB before soldering.
     ^ Two AA battery spring contacts are bent at 90 degrees by the leads to solder into the NEStonia mainboard, and be centered with the battery pads on RV10 and RV11 when installed.
     ? NESTONIA-15-BOM.html lists these parts as bulk breadboard jumper kits, and are not suitable purchases for single board productions unless you happen to want a lot of extra jumper wires.
@@ -98,7 +99,9 @@ BTTD Group
     Official NEStonia Channel:      https://www.youtube.com/@OfficialNEStoniaChannel
     Digikey parts:                  www.digikey.ca/en/mylists/list/VCLNEV7YCW
     Mouser parts:                   www.mouser.com/Tools/Project/Share?AccessID=467c7880bc
-    72-pin connectors:              https://www.aliexpress.com/item/1005007839326951.html
+    72-pin connectors:              https://www.aliexpress.com/item/1005005056845301.html
+                                    https://www.aliexpress.com/item/1005005016059093.html
+                                    https://www.aliexpress.com/item/32785406388.html
     Batteries:                      https://www.aliexpress.com/item/1005008443604496.html
     NES Development:                https://www.nesdev.org
     MIDI Development:               https://midi.org
