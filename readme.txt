@@ -1,11 +1,11 @@
 =============================
-NEStonia Documentation v 0.05
+NEStonia Documentation v 0.06
 =============================
 ** Viewed best as Raw text **
 
 Brad Taylor
 BTTD Group
-05/26/2025
+05/27/2025
 
 
  1. Overview
@@ -50,7 +50,7 @@ BTTD Group
 
 2. Features.
 
-    BT  1 ^     14500 LiPo 3.7 Volt 1200 mAh rechargeable unit battery, and thermal sensor.
+    BT  1 ^     14500 LiPo 3.7 Volt 1200 mAh rechargeable unit battery.
     D   1       RGB system LED indicator.  Indicates when the unit is charging, and when the NES cartridge port is energized.
     D   5-6     Left + right level/clip BI-LED indicators (green/red).
     D   7       MIC -> Cartridge line-in LED indicator.
@@ -74,7 +74,7 @@ BTTD Group
     SW  8 #     Device Firmware Upgrade over MIDI-IN disable [default]; keep this setting disabled when not in use.
     SW  9 #     Microphone-to-MIDI-out disable [default], to bring NEStonia's raw stereo microphone lines to two MIDI-OUT pins.
     SW 10 #     Stereo [default] / mono line-out select.  Effectively disconnects the ring (right channel) from the line out jack in mono mode.
-    TH  1       Thermal sensor for BT 1.  Requires a currently undocumented companion 50 mm x 10 mm thermal pad that tangents the battery and will be in a revised NEStonia BOM.
+    TH  1       Thermal sensor for BT 1.  Requires a currently undocumented companion 50 mm x 10 mm thermal pad that tangents the battery hull and will be in a revised NEStonia BOM.
     U   9       Right USB-C charge port (data lines can also be routed into the cartridge).
     U  10       Left USB-C port connected to the STM32 micro, capable of 1.5 amp power delivery.
     U  24-25    Line out monitor select, 8 sources.
@@ -203,11 +203,11 @@ BTTD Group
 
  9. Privacy and Shipping.
 
-    At the BTTD Group, we recognize the importance of safeguarding the personal information of our customers. This Privacy and Shipping Statement outlines our practices regarding data collection, usage, and disclosure in connection with order fulfillment and delivery services.
+    At the BTTD Group, we recognize the importance of safeguarding the personal information of our customers and donors. This Privacy and Shipping Statement outlines our practices regarding data collection, usage, and disclosure in connection with order fulfillment and delivery services.
 
     a) Data Collection and Use.
 
-        We collect only the minimum personally identifiable information necessary to fulfill customer orders, including:
+        We collect only the minimum personally identifiable information necessary to fulfill customer/donor orders, including:
 
             * Full name
 
@@ -215,27 +215,27 @@ BTTD Group
 
             * Contact information (e.g., phone number or email, when required for delivery)
 
-        This information is used exclusively for the purpose of processing and delivering your order. The BTTD Group does not sell, lease, or otherwise share customer data with third parties for advertising, profiling, or unrelated commercial purposes.
+        This information is used exclusively for the purpose of processing and delivering your order. The BTTD Group does not sell, lease, or otherwise share customer/donor data with third parties for advertising, profiling, or unrelated commercial purposes.
 
     b) Use of Third-Party Shipping Providers.
 
-        In the event of a service disruption involving federally operated postal systems (e.g., a Canada Post labor strike), the BTTD Group may, at its discretion, utilize third-party logistics and shipping providers to ensure timely delivery of customer orders.
+        In the event of a service disruption involving federally operated postal systems (e.g., a Canada Post labor strike), the BTTD Group may, at its discretion, utilize third-party logistics and shipping providers to ensure timely delivery of customer/donor orders.
 
         When such alternatives are employed:
 
             * Only information strictly required for delivery is transmitted to the third-party service.
 
-            * Customer data shared with third-party shipping providers is retained only for the duration necessary to complete fulfillment and resolve any shipping issues.
+            * Customer/donor data shared with third-party shipping providers is retained only for the duration necessary to complete fulfillment and resolve any shipping issues.
 
-            * The BTTD Group undertakes reasonable efforts to remove or anonymize all customer data stored on third-party logistics platforms immediately upon the confirmation of delivery or fulfillment of the order.
+            * The BTTD Group undertakes reasonable efforts to remove or anonymize all customer/donor data stored on third-party logistics platforms immediately upon the confirmation of delivery or fulfillment of the order.
 
     c) Data Retention and Erasure.
 
-        Customer data is retained only for as long as required to fulfill the original transaction, comply with legal obligations, or resolve disputes. Upon request, the BTTD Group will promptly delete any stored personal data related to completed orders, subject to applicable legal and accounting requirements.
+        Customer/donor data is retained only for as long as required to fulfill the original transaction, comply with legal obligations, or resolve disputes. Upon request, the BTTD Group will promptly delete any stored personal data related to completed orders, subject to applicable legal and accounting requirements.
 
     d) Data Security and Integrity.
 
-        All reasonable technical and organizational measures are taken to protect customer information against unauthorized access, loss, misuse, or alteration. Our systems and procedures are periodically reviewed and updated to ensure compliance with privacy standards and best practices.
+        All reasonable technical and organizational measures are taken to protect customer/donor information against unauthorized access, loss, misuse, or alteration. Our systems and procedures are periodically reviewed and updated to ensure compliance with privacy standards and best practices.
 
     e) Questions or Requests.
 
@@ -283,7 +283,7 @@ BTTD Group
 
     NEStonia is not your average DIY electronics project.
 
-    This is a professional-grade project designed with commercial-grade routing, high part density, and dozens of interdependent subsystems. It's a love letter to modern versus vintage hardware design — and building it by hand is a serious undertaking.
+    This is a professional-grade project designed with commercial-grade routing, high part density, and dozens of interdependent subsystems. It's a love letter to modern versus vintage electronics design — and building it by hand is a serious undertaking.
 
     Suggested prerequisites for success:
 
@@ -308,27 +308,27 @@ BTTD Group
 
     🌟 What It Is:
 
-        A voluntary, opt-in list for self-assembled NEStonia builds.
+        * A voluntary, opt-in list for self-assembled NEStonia builds.
 
-        Builders can submit their UID, a nickname or handle, and optionally a photo or project description.
+        * Builders can submit their UID, a nickname or handle, and optionally a photo or project description.
 
-        Entries are kept separate from the official NEStonia registry, but are publicly viewable as a celebration of independent craftsmanship.
+        * Entries are kept separate from the official NEStonia registry, but are publicly viewable as a celebration of independent craftsmanship.
 
     🤝 What It’s Not:
 
-        It does not certify commercial authenticity or resale value.
+        * It does not certify commercial authenticity or resale value.
 
-        It’s not an official registration, and carries no warranty or endorsement.
+        * It’s not an official registration, and carries no warranty or endorsement.
 
-        It’s not used for verification tools — it’s for recognition and community, not validation.
+        * It’s not used for verification tools — it’s for recognition and community, not validation.
 
     🔧 Why It Matters:
 
-        Encourages skill-building and pride in personal accomplishments.
+        * Encourages skill-building and pride in personal accomplishments.
 
-        Gives hobbyists a sense of inclusion and recognition within the NEStonia ecosystem.
+        * Gives hobbyists a sense of inclusion and recognition within the NEStonia ecosystem.
 
-        Helps preserve the open hardware spirit without compromising the official manufacturing chain.
+        * Helps preserve the open hardware spirit without compromising the official manufacturing chain.
 
 
 13. Registration & Authentication.
@@ -337,23 +337,23 @@ BTTD Group
 
     ✅ For Manufacturers:
 
-        Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
+        * Easy Serial Capture: During production, each board's unique microcontroller ID (UID) is automatically extracted using a secure ST-LINK probe and logged.
 
-        Zero-Code Setup: No firmware is required — UIDs are read directly from hardware over SWD.
+        * Zero-Code Setup: No firmware is required — UIDs are read directly from hardware over SWD.
 
-        Effortless Registry Upload: A provided script securely pushes the unit’s UID to a public GitHub-based registry using a protected token.
+        * Effortless Registry Upload: A provided script securely pushes the unit’s UID to a public GitHub-based registry using a protected token.
 
-        Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
+        * Tamper-Evident Process: All entries are versioned and time-stamped, creating a verifiable manufacturing trail.
 
     🔎 For Customers:
 
-        Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
+        * Instant Authentication: Each NEStonia unit can be validated by checking its UID against the public registry.
 
-        No Manual Search: An included verification tool reads the unit’s ID and checks for authenticity automatically.
+        * No Manual Search: An included verification tool reads the unit’s ID and checks for authenticity automatically.
 
-        Counterfeit Protection: Units not found in the registry are easily identified as unauthorized, protecting the community from fakes.
+        * Counterfeit Protection: Units not found in the registry are easily identified as unauthorized, protecting the community from fakes.
 
-        Preserved Value: Genuine NEStonia boards retain their value by being part of a traceable, trusted chain of production.
+        * Preserved Value: Genuine NEStonia boards retain their value by being part of a traceable, trusted chain of production.
 
     🌐 Industry-First Innovation:
 
